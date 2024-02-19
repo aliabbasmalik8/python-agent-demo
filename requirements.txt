@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+openai
+langchain-community
+langchain-core
+langchain-openai
+python-decouple
+tavily-python
+openpyxl
+
